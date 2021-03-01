@@ -5,7 +5,7 @@ import '../../styles/FirstPage.css'
 const FirstPage = () => {
     return(
         <div className='firstPageContainer'>
-            first page dfgdfgdfgfdg
+            first page dfgdfgdfgfdg kdsfjsdjkfsdhfsdsdjsdjksfd
         </div>
     );
 }
