@@ -10,7 +10,7 @@ const SecondPage = () => {
     const[green, setGreen] = useState(200);
     const[blue, setBlue] = useState(200);
 
-    const num = 5;
+    const num = 10;
 
     if (red < 0) setRed(0);
     if (green < 0) setGreen(0);
